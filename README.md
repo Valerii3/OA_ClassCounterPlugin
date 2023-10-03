@@ -31,7 +31,7 @@ The plugin's accuracy and performance are validated through `JUnit` tests, ensur
 
 2.Clone the repo using `ssh`: `git clone git@github.com:Valerii3/OA_WebTeamUI.git`
 
-3.Open the repo directory in a console 
+3.Open the basic_plugin directory in a console 
 
 4.Build the plugin: `gradlew buildPlugin`
 
@@ -40,7 +40,7 @@ The plugin's accuracy and performance are validated through `JUnit` tests, ensur
 # Installation (automatic)
 
 1. Clone the repo using `ssh`: `git clone git@github.com:Valerii3/OA_WebTeamUI.git`
-2. Open directory as **IntelliJ IDEA** project
+2. Open basic_plugin directory as **IntelliJ IDEA** project
 3. Run using `gradle` (argument: `runIde`)
 4. Test the plugin clicking `run test` in  MyPluginTest file.
 
