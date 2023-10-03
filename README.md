@@ -21,6 +21,8 @@ Utilizing `Swing`, a user interface displays the counts and, when a file is sele
 
 The plugin's accuracy and performance are validated through `JUnit` tests, ensuring reliable operation.
 
+![unable to load image](https://drive.google.com/uc?export=download&id=1N5Wf8--7y88AlSpvexRwaY-Ewtv3__-E)
+
 
 
 # Installation (manually)
