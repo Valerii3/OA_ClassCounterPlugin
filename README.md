@@ -46,4 +46,4 @@ The plugin's accuracy and performance are validated through `JUnit` tests, ensur
 
 
 # Regards
-**Thank you JetBrains for the opportunity to become a part of WEBTeamUI during the internship**
+**Thank you JetBrains for the opportunity to become a part of Academy Team during the internship**
